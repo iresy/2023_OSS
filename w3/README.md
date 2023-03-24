@@ -5,9 +5,9 @@
 ### 이미지
 ![kau.png](./img/kau/kau.png)
 ### 링크
-### [LMS](https://lms.kau.ac.kr/, "항공대학교 강의관리시스템")
+### [LMS](https://lms.kau.ac.kr/ "항공대학교 강의관리시스템")
 ### ProGit 링크
-### [ProGit](https://git-scm.com/book/ko/v2/, "git 문서, 한국어")
+### [ProGit](https://git-scm.com/book/ko/v2/ "git 문서, 한국어")
 ***
 ## 2주차 숙제
 ```

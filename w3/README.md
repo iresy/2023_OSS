@@ -6,9 +6,9 @@
 ![kau.png](https://github.com/iresy/2023_OSS/blob/main/img/kau/kau.png?raw=true)
 ### 링크
 ### [LMS](https://lms.kau.ac.kr/ "항공대학교 강의관리시스템")
-### ProGit 링크
+#### ProGit 링크
 ### [ProGit](https://git-scm.com/book/ko/v2/ "git 문서, 한국어")
-### 주요 git 명령어
+#### 주요 git 명령어
 * add : 파일을 추적 대상으로 포함시킬 때, 또는 커밋 대상으로 포함시킬 때 사용
 	- 예) git add
 * commit
@@ -51,11 +51,11 @@ tail -n 1 $file_path
 ```
 ## 마크다운
 ### 목록
-### 번호 있는 목록: 내림차순 정렬
+#### 번호 있는 목록: 내림차순 정렬
 1. 첫번째
 2. 세번쨰
 3. 두번째
-### 번호 없는 목록: *,-,+
+#### 번호 없는 목록: *,-,+
 * 첫번째
 * 세번째
 * 두번째

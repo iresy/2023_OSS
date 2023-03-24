@@ -10,7 +10,7 @@
 ### [ProGit](https://git-scm.com/book/ko/v2/ "git 문서, 한국어")
 ***
 ## 2주차 숙제
-```c
+```bash
 #!/usr/bin/env bash
 echo "----------"
 echo "name :"

@@ -1,8 +1,8 @@
-# 2023_OSS
-## 2023 OSS 수업
+#2023_OSS
+##2023 OSS 수업
 ***
-### 3주차 git
-### 이미지
+###3주차 git
+###이미지
 ![kau.png](https://github.com/iresy/2023_OSS/blob/main/img/kau/kau.png?raw=true)
 ### 링크
 ### [LMS](https://lms.kau.ac.kr/ "항공대학교 강의관리시스템")
@@ -64,11 +64,11 @@ tail -n 1 $file_path
 	* 녹색
 		* 파랑
 ### 강조
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*    
+_single underscores_    
+**double asterisks**    
+__double underscores__    
+~~cancelline~~    
 
 
 
